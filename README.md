@@ -1,5 +1,7 @@
 # Brain-Tumor-Auto-Segmentation-for-Magnetic-Resonance-Imaging-MRI
 
+![alt text](https://github.com/Asif1405/Brain-Tumor-Auto-Segmentation-for-Magnetic-Resonance-Imaging-MRI/blob/master/444.PNG)
+
 ### Overview:
 I built a neural network to automatically segment tumor regions in brain, using MRI (Magnetic Resonance Imaging) scans.
 
